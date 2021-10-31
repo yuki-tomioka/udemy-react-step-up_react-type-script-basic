@@ -12,7 +12,7 @@ export const Practice3 = () => {
 
   return (
     <div>
-      <p>練習問題：　引数の型指定</p>
+      <p>練習問題：　変数の型指定</p>
       <button onClick={onClickPrictice}>練習問題3を実行</button>
     </div>
   );
